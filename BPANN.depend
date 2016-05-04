@@ -1,0 +1,128 @@
+# depslib dependency file v1.0
+1461311150 source:d:\code\codeblocks\bpann\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+	"ANNBP.h"
+	"Array_Init.h"
+	"Array_Compute.h"
+
+1460970687 source:d:\code\codeblocks\bpann\array_init.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"Array_Init.h"
+
+1460886830 d:\code\codeblocks\bpann\array_init.h
+
+1460911164 d:\code\codeblocks\bpann\array_compute.h
+
+1460972022 source:d:\code\codeblocks\bpann\array_compute.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+	"Array_Compute.h"
+	"Array_Init.h"
+
+1460971031 source:d:\code\codeblocks\bpann\annbp.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+	"Array_Init.h"
+	"Array_Compute.h"
+
+1460960640 d:\code\codeblocks\bpann\annbp.h
+
+1462198238 source:c:\users\gary\desktop\bpann\annbp.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+	"Array_Init.h"
+	"Array_Compute.h"
+
+1462196528 c:\users\gary\desktop\bpann\array_init.h
+	"Array_Struct.h"
+
+1462197539 c:\users\gary\desktop\bpann\array_compute.h
+	"Array_Struct.h"
+
+1462197520 source:c:\users\gary\desktop\bpann\array_compute.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+	"Array_Compute.h"
+	"Array_Init.h"
+	"Array_Struct.h"
+
+1462196488 source:c:\users\gary\desktop\bpann\array_init.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"Array_Init.h"
+	"Array_Struct.h"
+
+1462198091 source:c:\users\gary\desktop\bpann\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+	"ANNBP.h"
+	"Array_Init.h"
+	"Array_Compute.h"
+	"Array_Struct.h"
+
+1462197980 c:\users\gary\desktop\bpann\annbp.h
+	"Array_Struct.h"
+
+1462173139 c:\users\gary\desktop\bpann\array_struct.h
+
+1462198240 source:d:\code\codeblocks\bpann_baobao\annbp.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+	"Array_Init.h"
+	"Array_Compute.h"
+
+1462352568 d:\code\codeblocks\bpann_baobao\array_init.h
+	"Array_Struct.h"
+
+1462352691 d:\code\codeblocks\bpann_baobao\array_struct.h
+
+1462329571 d:\code\codeblocks\bpann_baobao\array_compute.h
+	"Array_Struct.h"
+
+1462329559 source:d:\code\codeblocks\bpann_baobao\array_compute.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+	"Array_Compute.h"
+	"Array_Init.h"
+	"Array_Struct.h"
+
+1462350819 source:d:\code\codeblocks\bpann_baobao\array_init.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"Array_Init.h"
+	"Array_Struct.h"
+
+1462350713 source:d:\code\codeblocks\bpann_baobao\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+	"ANNBP.h"
+	"Array_Init.h"
+	"Array_Compute.h"
+	"Array_Struct.h"
+
+1462197982 d:\code\codeblocks\bpann_baobao\annbp.h
+	"Array_Struct.h"
+
