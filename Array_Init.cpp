@@ -98,12 +98,12 @@ int malloc2d_int(int *** grid, int nrows, int ncols)
     return 0;
 }
 
-double malloc2d_double(ARRAY_2D *buffer)
+double malloc2d_double( ARRAY_2D *buffer, int nrows, int ncols )
 {
     int i;
     double ***grid = &(buffer->arr);
-    int nrows = buffer->row;
-    int ncols = buffer->col;
+    buffer->row = nrows;
+    buffer->col = ncols;
 
     //分配動態 2 維陣列記憶體空間
     *grid = (double**)malloc( sizeof(double *) * nrows);

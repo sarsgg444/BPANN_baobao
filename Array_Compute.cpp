@@ -14,12 +14,9 @@ int Array2dRandom_double( ARRAY_2D *buffer, double rangeMax, double rangeMin )
 {
     int i, j;
     double range;
-    double **grid;
-    int nrows;
-    int ncols;
-    grid = buffer->arr;
-    nrows = buffer->row;
-    ncols = buffer->col;
+    double **grid = buffer->arr;
+    int nrows = buffer->row;
+    int ncols = buffer->col;
 
     //檢查亂數範圍
     range = rangeMax - rangeMin;

@@ -81,23 +81,25 @@
 
 1462173139 c:\users\gary\desktop\bpann\array_struct.h
 
-1462198240 source:d:\code\codeblocks\bpann_baobao\annbp.cpp
+1462510135 source:d:\code\codeblocks\bpann_baobao\annbp.cpp
 	<stdio.h>
 	<stdlib.h>
 	<math.h>
 	<time.h>
 	"Array_Init.h"
 	"Array_Compute.h"
+	"ANNBP.h"
+	"FileIO.h"
 
-1462352568 d:\code\codeblocks\bpann_baobao\array_init.h
+1462379430 d:\code\codeblocks\bpann_baobao\array_init.h
 	"Array_Struct.h"
 
-1462352691 d:\code\codeblocks\bpann_baobao\array_struct.h
+1462445573 d:\code\codeblocks\bpann_baobao\array_struct.h
 
 1462329571 d:\code\codeblocks\bpann_baobao\array_compute.h
 	"Array_Struct.h"
 
-1462329559 source:d:\code\codeblocks\bpann_baobao\array_compute.cpp
+1462420393 source:d:\code\codeblocks\bpann_baobao\array_compute.cpp
 	<stdio.h>
 	<stdlib.h>
 	<math.h>
@@ -106,14 +108,14 @@
 	"Array_Init.h"
 	"Array_Struct.h"
 
-1462350819 source:d:\code\codeblocks\bpann_baobao\array_init.cpp
+1462379393 source:d:\code\codeblocks\bpann_baobao\array_init.cpp
 	<stdio.h>
 	<stdlib.h>
 	<math.h>
 	"Array_Init.h"
 	"Array_Struct.h"
 
-1462350713 source:d:\code\codeblocks\bpann_baobao\main.cpp
+1462509516 source:d:\code\codeblocks\bpann_baobao\main.cpp
 	<stdio.h>
 	<stdlib.h>
 	<math.h>
@@ -122,7 +124,15 @@
 	"Array_Init.h"
 	"Array_Compute.h"
 	"Array_Struct.h"
+	"FileIO.h"
 
-1462197982 d:\code\codeblocks\bpann_baobao\annbp.h
+1462508890 d:\code\codeblocks\bpann_baobao\annbp.h
 	"Array_Struct.h"
+
+1462446380 source:d:\code\codeblocks\bpann_baobao\fileio.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1462442679 d:\code\codeblocks\bpann_baobao\fileio.h
 

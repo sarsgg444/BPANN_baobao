@@ -1,0 +1,3 @@
+Input_Layer:8
+Hidden_Layer:3,5
+Output_Layer:1

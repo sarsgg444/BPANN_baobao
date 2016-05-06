@@ -39,6 +39,8 @@
 		<Unit filename="Array_Init.cpp" />
 		<Unit filename="Array_Init.h" />
 		<Unit filename="Array_Struct.h" />
+		<Unit filename="FileIO.cpp" />
+		<Unit filename="FileIO.h" />
 		<Unit filename="main.cpp" />
 		<Extensions>
 			<code_completion />

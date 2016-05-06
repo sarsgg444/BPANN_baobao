@@ -14,7 +14,7 @@ int UnitArray2dInit_double(ARRAY_2D *buffer);
 int malloc2d_int(int *** grid, int nrows, int ncols);
 
 //double malloc2d_double(double *** grid, int nrows, int ncols);
-double malloc2d_double(ARRAY_2D *buffer);
+double malloc2d_double(ARRAY_2D *buffer, int nrows, int ncols);
 
 
 #endif // H_ARRAY_INIT
